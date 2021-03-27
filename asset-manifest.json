@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/commerce-js-project/static/js/main.20f81845.chunk.js",
-    "main.js.map": "/commerce-js-project/static/js/main.20f81845.chunk.js.map",
+    "main.js": "/commerce-js-project/static/js/main.60a49e4f.chunk.js",
+    "main.js.map": "/commerce-js-project/static/js/main.60a49e4f.chunk.js.map",
     "runtime-main.js": "/commerce-js-project/static/js/runtime-main.1a2ca8d9.js",
     "runtime-main.js.map": "/commerce-js-project/static/js/runtime-main.1a2ca8d9.js.map",
     "static/js/2.5d442252.chunk.js": "/commerce-js-project/static/js/2.5d442252.chunk.js",
     "static/js/2.5d442252.chunk.js.map": "/commerce-js-project/static/js/2.5d442252.chunk.js.map",
     "index.html": "/commerce-js-project/index.html",
-    "precache-manifest.e212ddeeca61102dc1e6856918c49696.js": "/commerce-js-project/precache-manifest.e212ddeeca61102dc1e6856918c49696.js",
+    "precache-manifest.c59c11409484d703ce0a24ec8919a16b.js": "/commerce-js-project/precache-manifest.c59c11409484d703ce0a24ec8919a16b.js",
     "service-worker.js": "/commerce-js-project/service-worker.js",
     "static/js/2.5d442252.chunk.js.LICENSE.txt": "/commerce-js-project/static/js/2.5d442252.chunk.js.LICENSE.txt",
     "static/media/empty.png": "/commerce-js-project/static/media/empty.f311c612.png",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.1a2ca8d9.js",
     "static/js/2.5d442252.chunk.js",
-    "static/js/main.20f81845.chunk.js"
+    "static/js/main.60a49e4f.chunk.js"
   ]
 }
