@@ -1,3 +1,5 @@
-# commerce-js-project
-build an ecommerce app using commerce js and firebase authentication
-see the live at https://ridhotamma.github.io/commerce-js-project
+# E-Commerce
+
+commerce js application example.
+
+### [Live Site](https://ridhotamma.github.io/commerce-js-project/)
